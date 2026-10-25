@@ -47,14 +47,14 @@ time.
 From git. Pin a commit or a tag:
 
 ```
-npm install github:vchance/yuppers-verify#v0.1.0
+npm install github:Yuppers-LLC/yuppers-verify#v0.1.0
 npx yuppers-verify record.json
 ```
 
 Or clone it:
 
 ```
-git clone https://github.com/vchance/yuppers-verify
+git clone https://github.com/Yuppers-LLC/yuppers-verify
 cd yuppers-verify && npm ci
 node bin/yuppers-verify.mjs record.json
 ```
