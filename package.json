@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vchance/yuppers-verify.git"
+    "url": "git+https://github.com/Yuppers-LLC/yuppers-verify.git"
   },
-  "homepage": "https://github.com/vchance/yuppers-verify#readme",
+  "homepage": "https://github.com/Yuppers-LLC/yuppers-verify#readme",
   "bugs": {
-    "url": "https://github.com/vchance/yuppers-verify/issues"
+    "url": "https://github.com/Yuppers-LLC/yuppers-verify/issues"
   },
   "files": [
     "src",
